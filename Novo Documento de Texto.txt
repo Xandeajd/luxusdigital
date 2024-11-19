@@ -1,0 +1,10 @@
+/* Estilos da seção Hero */
+#hero {
+    background-size: 100%;
+    background-image: url(./img/background.png);
+    width: auto;
+    color: #fff;
+    background-position: center;
+    text-align: center;
+    padding: 100px 100px;
+}
